@@ -7,7 +7,7 @@ This project automates the process of downloading, cleaning, and loading YouTube
 ## 🚀 Project Overview
 
 As part of my journey in mastering data engineering skills, I built an end-to-end data pipeline using:
-- **Python (with Pandas, Requests, pyodbc)
+- **Python (with Pandas, Requests, pyodbc)**
 - **SQL Server (SSMS)**
 - **GitHub for version control**
 
